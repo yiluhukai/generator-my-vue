@@ -1,5 +1,5 @@
 {
-	"name": "generator-my-vue",
+	"name": "generator-bruce-vue",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -7,8 +7,8 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "yiluhuakai",
-	"license": "ISC",
+	"author": "bruce123",
+	"license": "MIT",
 	"dependencies": {
 		"yeoman-generator": "^4.0.1"
 	}
